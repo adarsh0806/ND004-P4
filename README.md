@@ -1,8 +1,9 @@
-# Full Stack Web Developer Nanodegree - P3: Item Catalog
+# Full Stack Web Developer Nanodegree - P4: Conference Organization App
 
-This is the project 3 implementation for the Full Stack Web Developer
-Nanodegree, implementing a web site based on Flask microframework,
-SQLAlchemy as ORM layer, and using OAuth for authentication.
+This is the project 4 implementation for the Full Stack Web Developer
+Nanodegree, adding some features to an existing conference organizing
+app.
+It is based on Google App Engine and Endpoints.
 
 ## Prerequisites
 
